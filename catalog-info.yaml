@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: backstage-sample-service
+  annotations:
+    github.com/project-slug: njampani123/backstage-sample-service
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
